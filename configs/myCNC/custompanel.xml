@@ -4,4 +4,8 @@
 Include your PyVCP panel here.
 The contents of this file will not be overwritten when you run stepconf again.
 -->
+	<button>
+           <halpin>"measumerent_material_height.out"</halpin>
+           <text>"Measumerent \nmaterial height"</text> 
+        </button>
 </pyvcp>
